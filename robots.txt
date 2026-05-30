@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://professor.norton.net.br/sitemap.xml
+Sitemap: https://professor.norton.net.br/sitemap.rss
+
